@@ -46,12 +46,12 @@ struct WellEvent {
 
 struct Well{
 	void moveRight(){
-		printf("Rigt\n");
+		//printf("Rigt\n");
 		wellMoveRight(this);
 	}
 
 	void moveLeft(){
-		printf("Left\n");
+		//printf("Left\n");
 		wellMoveLeft(this);
 	}
 
